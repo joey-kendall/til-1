@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til), which I spotted [on Hacker News](https://news.ycombinator.com/item?id=22908044).
 
-<!-- count starts -->17<!-- count ends --> TILs so far.
+<!-- count starts -->16<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## github-actions
@@ -37,10 +37,6 @@ My Today I Learned snippets. Inspired by [jbranchaud/til](https://github.com/jbr
 * [Get Skitch working on Catalina](https://github.com/joey-kendall/til-1/blob/master/macos/skitch-catalina.md) - 2020-04-21
 * [Close terminal window on Ctrl+D for macOS](https://github.com/joey-kendall/til-1/blob/master/macos/close-terminal-on-ctrl-d.md) - 2020-04-21
 * [This is a test](https://github.com/joey-kendall/til-1/blob/master/macos/this-is-a-test.md) - 2020-04-24
-
-## cloudrun
-
-* [Use labels on Cloud Run services for a billing breakdown](https://github.com/joey-kendall/til-1/blob/master/cloudrun/use-labels-for-billing-breakdown.md) - 2020-04-21
 
 ## tailscale
 
