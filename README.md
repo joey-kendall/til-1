@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Shamelessly re-purposed for my own TILs [simonw/til](https://til.simonwillison.net/)
 
-<!-- count starts -->17<!-- count ends --> TILs so far.
+<!-- count starts -->18<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## github-actions
@@ -45,4 +45,5 @@ My Today I Learned snippets. Shamelessly re-purposed for my own TILs [simonw/til
 ## docker
 
 * [Setup sql script to run when docker container starts](https://github.com/joey-kendall/til-1/blob/master/docker/setup-sql-script-to-run-at-start-of-container.md) - 2020-04-29
+* [Docker containers in separate compose files can talk to each other on the same network](https://github.com/joey-kendall/til-1/blob/master/docker/how-to-get-docker-containers-in-separate-compose-files-to-talk-to-each-other.md) - 2020-04-29
 <!-- index ends -->
