@@ -1,6 +1,5 @@
 # Today I Learned
 
-My Today I Learned snippets. Shamelessly re-purposed for my own TILs [simonw/til](https://til.simonwillison.net/)
 
 <!-- count starts -->18<!-- count ends --> TILs so far.
 
