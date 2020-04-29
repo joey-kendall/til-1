@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Shamelessly re-purposed for my own TILs [simonw/til](https://til.simonwillison.net/)
 
-<!-- count starts -->16<!-- count ends --> TILs so far.
+<!-- count starts -->17<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## github-actions
@@ -41,4 +41,8 @@ My Today I Learned snippets. Shamelessly re-purposed for my own TILs [simonw/til
 ## tailscale
 
 * [Restricting SSH connections to devices within a Tailscale network](https://github.com/joey-kendall/til-1/blob/master/tailscale/lock-down-sshd.md) - 2020-04-23
+
+## docker
+
+* [Setup sql script to run when docker container starts](https://github.com/joey-kendall/til-1/blob/master/docker/setup-sql-script-to-run-at-start-of-container.md) - 2020-04-29
 <!-- index ends -->
