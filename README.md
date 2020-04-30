@@ -1,7 +1,7 @@
 # Today I Learned
 
 
-<!-- count starts -->23<!-- count ends --> TILs so far.
+<!-- count starts -->24<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## github-actions
@@ -53,4 +53,8 @@
 * [Mocking multiple named exports in Jest](https://github.com/joey-kendall/til-1/blob/master/jest/mocking-multiple-named-exports.md) - 2020-04-30
 * [Expect a function with parameters to throw an exception](https://github.com/joey-kendall/til-1/blob/master/jest/expect-a-function-with-parameters-to-throw-an-exception.md) - 2020-04-30
 * [Mocking Node Modules](https://github.com/joey-kendall/til-1/blob/master/jest/mocking-node-modules.md) - 2020-04-30
+
+## npm
+
+* [Apparently you can add pre to any script name and when you run the script it will run the pre-version first](https://github.com/joey-kendall/til-1/blob/master/npm/prefix-any-script-in-package-json-with-pre.md) - 2020-04-30
 <!-- index ends -->
