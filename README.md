@@ -1,7 +1,7 @@
 # Today I Learned
 
 
-<!-- count starts -->24<!-- count ends --> TILs so far.
+<!-- count starts -->25<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## github-actions
@@ -57,4 +57,5 @@
 ## npm
 
 * [Apparently you can add pre to any script name and when you run the script it will run the pre-version first](https://github.com/joey-kendall/til-1/blob/master/npm/prefix-any-script-in-package-json-with-pre.md) - 2020-04-30
+* [Use npm link or npm pack when building an NPM package](https://github.com/joey-kendall/til-1/blob/master/npm/testing-npm-packages-built-locally.md) - 2020-04-30
 <!-- index ends -->
