@@ -1,7 +1,7 @@
 # Today I Learned
 
 
-<!-- count starts -->21<!-- count ends --> TILs so far.
+<!-- count starts -->22<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## github-actions
@@ -51,4 +51,5 @@
 
 * [In order to test that a jest mock rejects properly the await needs to go on the expect](https://github.com/joey-kendall/til-1/blob/master/jest/testing-that-a-mock-rejects.md) - 2020-04-30
 * [Mocking multiple named exports in Jest](https://github.com/joey-kendall/til-1/blob/master/jest/mocking-multiple-named-exports.md) - 2020-04-30
+* [Expect a function with parameters to throw an exception](https://github.com/joey-kendall/til-1/blob/master/jest/expect-a-function-with-parameters-to-throw-an-exception.md) - 2020-04-30
 <!-- index ends -->
