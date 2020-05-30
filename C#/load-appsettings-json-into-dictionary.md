@@ -3,4 +3,5 @@
 ```ConfigurationRoot.GetSection('Name').ToDictionary(x => x.Key, x => x.Value)```
 
 Or also try
+
 ```var config =  Configuration.GetSection("MobileConfigInfo").Get<Dictionary<string, string>>(); ```
