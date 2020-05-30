@@ -5,3 +5,6 @@
 Or also try
 
 ```var config =  Configuration.GetSection("MobileConfigInfo").Get<Dictionary<string, string>>(); ```
+
+
+this is a test
