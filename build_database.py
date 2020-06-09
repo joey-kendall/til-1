@@ -31,10 +31,10 @@ def created_changed_times(repo_path, ref="master"):
 
 def build_database(repo_path):
     all_times = created_changed_times(repo_path)
-    print(all_times)
     db = sqlite_utils.Database(repo_path / "til.db")
     table = db.table("til", pk="path")
     for filepath in root.glob("*/*.md"):
+        print(filepath)
         fp = filepath.open()
         title = fp.readline().lstrip("#").strip()
         body = fp.read().strip()
@@ -47,6 +47,7 @@ def build_database(repo_path):
             "url": url,
             "body": body,
         }
+        print(all_times[path])
         record.update(all_times[path])
         table.insert(record)
     if "til_fts" not in db.table_names():
