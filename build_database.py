@@ -15,7 +15,7 @@ def created_changed_times(repo_path, ref="master"):
         dt = commit.committed_datetime
         affected_files = list(commit.stats.files.keys())
         for filepath in affected_files:
-            print(created_changed_times[filepath])
+            
             if filepath not in created_changed_times:
                 created_changed_times[filepath] = {
                     "created": dt.isoformat(),
@@ -27,6 +27,7 @@ def created_changed_times(repo_path, ref="master"):
                     "updated_utc": dt.astimezone(timezone.utc).isoformat(),
                 }
             )
+            print(created_changed_times[filepath])
     return created_changed_times
 
 
