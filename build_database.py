@@ -27,6 +27,7 @@ def created_changed_times(repo_path, ref="master"):
                     "updated_utc": dt.astimezone(timezone.utc).isoformat(),
                 }
             )
+            print(filepath)
             print(created_changed_times[filepath])
     return created_changed_times
 
